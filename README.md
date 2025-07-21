@@ -1,5 +1,8 @@
 # Svelte + Vite
 
+GitHub Copilot was used to aid creation of the fade transition feature.
+The template at https://github.com/jasminesamra/kwk-scrollytelling-template was used as inspiration.
+
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
